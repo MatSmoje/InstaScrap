@@ -1,8 +1,0 @@
-[6660:400:0112/215233.218:INFO:CONSOLE(4)] "ErrorUtils caught an error:
-
-followedByViewer state must be defined
-
-Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/fbea99cf4329.js (4)
-[6660:400:0112/215233.289:INFO:CONSOLE(0)] "Access to image at 'https://instagram.fscl29-1.fna.fbcdn.net/v/t51.2885-15/e15/p640x640/271673111_314404927265158_2543242499862434098_n.jpg?_nc_ht=instagram.fscl29-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=S5eygxXxA8sAX-tpxiq&tn=2m_Wl16HiJvvKQTO&edm=AIQHJ4wBAAAA&ccb=7-4&ig_cache_key=Mjc0OTg4MjY3OTE2MzMxODE1Mw%3D%3D.2-ccb7-4&oh=00_AT-7l5diHfxca8k4movsfUv7TTE1241uE1_AI5YOAeCXPQ&oe=61E58812&_nc_sid=7b02f1' from origin 'https://www.instagram.com' has been blocked by CORS policy: Request header field cache-control is not allowed by Access-Control-Allow-Headers in preflight response.", source: https://www.instagram.com/ (0)
-[6660:400:0112/215233.289:INFO:CONSOLE(0)] "Access to image at 'https://instagram.fscl29-1.fna.fbcdn.net/v/t51.2885-15/e15/p640x640/271673111_314404927265158_2543242499862434098_n.jpg?_nc_ht=instagram.fscl29-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=S5eygxXxA8sAX-tpxiq&tn=2m_Wl16HiJvvKQTO&edm=AIQHJ4wBAAAA&ccb=7-4&ig_cache_key=Mjc0OTg4MjY3OTE2MzMxODE1Mw%3D%3D.2-ccb7-4&oh=00_AT-7l5diHfxca8k4movsfUv7TTE1241uE1_AI5YOAeCXPQ&oe=61E58812&_nc_sid=7b02f1' from origin 'https://www.instagram.com' has been blocked by CORS policy: Request header field cache-control is not allowed by Access-Control-Allow-Headers in preflight response.", source: https://www.instagram.com/ (0)
-[6660:400:0112/215246.053:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

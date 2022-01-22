@@ -1,1 +1,6 @@
 passwd.py
+Cookies/
+instagramData.txt
+InstagramScraper.log
+InstagramScraper.drawio
+__pycache__/
