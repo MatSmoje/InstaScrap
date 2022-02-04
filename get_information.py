@@ -31,3 +31,5 @@ def get_basic_info(usuario,driver):
     
     
     return driver, basicInfo
+
+    #"followes": "24,1k" -> string replace k x 000 ->24,1000 replace = 
